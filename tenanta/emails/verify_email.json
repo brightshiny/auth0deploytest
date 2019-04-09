@@ -1,0 +1,10 @@
+{
+    "template": "verify_email",
+    "from": "no@no.com",
+    "subject": "VERIFY!",
+    "resultUrl": "https://www.google.com",
+    "syntax": "liquid",
+    "body": "./verify_email.html",
+    "urlLifetimeInSeconds": 432000,
+    "enabled": true
+}
