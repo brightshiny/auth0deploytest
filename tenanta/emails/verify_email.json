@@ -1,6 +1,5 @@
 {
     "template": "verify_email",
-    "from": "no@no.com",
     "subject": "VERIFY!",
     "resultUrl": "https://www.google.com",
     "syntax": "liquid",
